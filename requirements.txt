@@ -1,0 +1,10 @@
+streamlit
+tensorflow-cpu==2.16.2
+numpy
+Pillow
+scikit-learn
+matplotlib
+reportlab
+pandas
+requests
+gdown
